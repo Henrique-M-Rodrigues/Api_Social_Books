@@ -39,6 +39,7 @@ public class Comentario {
 	}
 
 	public Date getData() {
+		
 		return data;
 	}
 
